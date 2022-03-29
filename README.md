@@ -20,3 +20,5 @@ The database tables should be as follows:
 4- Publisher(id, name, country) 
 
 5- Author(id, name) 
+
+6- Sells(library_name, ICBN)
